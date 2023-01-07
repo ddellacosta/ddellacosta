@@ -1,4 +1,4 @@
-Hi folks, please don't send me recruiting, project testing requests, mailing list signups, or any other unsolicited commercial email (I mark these sorts of emails as spam and ignore them). Otherwise I'm happy to hear from other programmers especially. Thank you!
+Hi folks, please don't send me recruiting emails, project testing requests, mailing list signups, or any other unsolicited commercial email (I mark these sorts of emails as spam and ignore them). Otherwise I'm happy to hear from other programmers especially. Thank you!
 
 
 <!--
